@@ -8,7 +8,7 @@ All solutions are implemented in `solutions.ts`.
 
 ## Blog Posts
 
-1. **[Access Modifiers in TypeScript OOP](./access-modifiers-typescript.md)**  
+1. **[Access Modifiers in TypeScript OOP]([./access-modifiers-typescript.md](https://github.com/shafin-10/Assignment-1/blob/main/access-modifiers-in-typescript.md))**  
    Explains `public`, `private`, `protected`, and `readonly` with practical examples.
 
 2. **[Type Aliases vs. Interfaces in TypeScript](./type-vs-interface.md)**  
