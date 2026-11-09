@@ -12,7 +12,7 @@ All solutions are implemented in `solutions.ts`.
 1. **[Type Aliases vs. Interfaces in TypeScript]([./type-vs-interface.md](https://github.com/shafin-10/Assignment-1/blob/main/access-modifiers-in-typescript.md))**  
    Explores the differences, features, and use cases of type aliases and interfaces.
    
-3. **[Access Modifiers in TypeScript OOP]([./access-modifiers-typescript.md](https://github.com/shafin-10/Assignment-1/blob/main/access-modifiers-in-typescript.md))**  
+3. **[Access Modifiers in TypeScript OOP]([https://github.com/shafin-10/Assignment-1/blob/main/access-modifiers-in-typescript.md]))**  
    Explains `public`, `private`, `protected`, and `readonly` with practical examples.
 
 
